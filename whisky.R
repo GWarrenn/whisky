@@ -14,6 +14,8 @@ x <- whisky_data_w_years$year
 
 initial_model <- lm(y ~ x)
 
+initial_model
+
 summary(initial_model)$r.squared
 
 predict(initial_model,data.frame(x=15),interval="confidence")
@@ -31,6 +33,8 @@ r <- whisky_data_w_years$region
 
 model_w_region <- lm(y ~ x + r)
 
+model_w_region
+
 summary(model_w_region)$r.squared
 
 predict(model_w_region,data.frame(x=15,r="Speyside"),interval="confidence")
@@ -39,7 +43,7 @@ predict(model_w_region,data.frame(x=15,r="Highland"),interval="confidence")
 
 ##########################################
 
-whisky_data <- read.csv("P:\\whisky.csv")
+whisky_data <- read.csv("P:\\whisky_all.csv")
 
 whisky_data$mean_rating <- mean(whisky_data$rating)
 whisky_data$mean_price <- mean(whisky_data$price)

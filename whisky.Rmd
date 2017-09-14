@@ -22,8 +22,7 @@ I went to a bar in Minneapolis called "Merlin's Rest" with one of the most impre
 So I did what any reasonable person did and found an API (<https://github.com/WhiskeyProject/whiskey-api>) to scrape the data and look at the relationship.
 
 
-
-The first thing I wanted to do was to run a simple linear regression on price and age to show the relationship between the two.
+Once I gathered the data (for those interested: <https://github.com/GWarrenn/whisky/blob/master/whisky.py>), the first thing I wanted to do was to run a simple linear regression on price and age to show the relationship between the two.
 
 ```{r echo}
 

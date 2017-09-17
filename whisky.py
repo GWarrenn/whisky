@@ -1,8 +1,9 @@
 import json
 import urllib
-import pandas
+import pandas as pd
 import matplotlib
 import matplotlib.pyplot as plt
+import numpy as np
 import re
 
 ##use next to flip through pages
@@ -54,12 +55,12 @@ while next_page:
     print page
 
 all_whisky_data = whisky_df
-all_whisky_data.to_csv("P:\\whisky_all.csv",index=False,encoding='utf-8')
+all_whisky_data.to_csv("whisky_all.csv",index=False,encoding='utf-8')
 
 whisky_df['year'].replace('', np.nan, inplace=True)
 whisky_df.dropna(subset=['year'], inplace=True)
 
 whisky_df['year'] = pd.to_numeric(whisky_df['year'], errors='coerce')
 
-whisky_df.to_csv("P:\\whisky.csv",index=False)
+whisky_df.to_csv("whisky.csv",index=False)
 

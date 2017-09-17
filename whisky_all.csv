@@ -1,0 +1,378 @@
+name,rating,region,price,year
+Aberlour A'bunadh batch #36,92.0,Speyside,45.0,
+Aberlour A'bunadh batch #39,88.0,Speyside,58.0,
+AnCnoc 12,84.0,Speyside,38.0, 12
+Angel's Envy Cask Strength,87.0,Bourbon,180.0,
+Ardbeg Alligator,88.0,Islay,141.0,
+Amrut Fusion,86.0,Other,53.0,
+Amrut Kadhambam,89.0,Other,128.0,
+Arran Amarone Cask Finish,82.0,Island,40.0,
+Arran Sauternes Cask Finish,80.0,Island,42.0,
+Auchentoshan American Oak,72.0,Other,26.0,
+Auchentoshan Three Wood,82.0,Other,59.0,
+Balcones Texas Single Malt,85.0,American,60.0,
+1792 Ridgemont Reserve,82.0,Bourbon,22.0,
+Ardbeg Day,90.0,Islay,242.0,
+Aberfeldy 12,77.0,Highland,40.0, 12
+Aberlour 10,78.0,Speyside,23.0, 10
+Benromach 10 100 Proof,90.0,Speyside,69.0, 10 
+Benromach Traditional,79.0,Speyside,36.0,
+Black Bottle,76.0,Other,20.0,
+Blanton's Straight from the Barrel,91.0,Bourbon,80.0,
+Bowmore 12,75.0,Islay,32.0, 12
+Bowmore 15 Darkest,78.0,Islay,35.0, 15 
+Bowmore 18,82.0,Islay,46.0, 18
+Bruichladdich Black Art 2,88.0,Islay,147.0,
+Bruichladdich Octomore 6.3,86.0,Islay,155.0,
+Bruichladdich PC7,89.0,Islay,99.0,
+Balvenie 12 Signature,83.0,Speyside,50.0, 12 
+BenRiach 16,84.0,Speyside,72.0, 16
+Balvenie 15 Single Barrel Sherry Cask,88.0,Speyside,40.0, 15 
+Black Grouse,70.0,Other,26.0,
+Balvenie 17 Doublewood,86.0,Speyside,92.0, 17 
+Cutty Sark,63.0,Other,18.0,
+Bruichladdich Waves,78.0,Islay,80.0,
+Buchanan's 12 De Luxe,77.0,Other,30.0, 12 
+Bulleit Bourbon,81.0,Bourbon,23.0,
+Bruichladdich Octomore 6.1,89.0,Islay,116.0,
+Bushmills 10,81.0,Irish,30.0, 10
+Caol Ila 18,87.0,Islay,74.0, 18
+Caperdonich 18 Signatory,86.0,Speyside,91.0, 18 
+Chivas Regal 12,69.0,Other,23.0, 12
+Colonel E.H. Taylor Single Barrel,85.0,Bourbon,61.0,
+Compass Box Flaming Heart,89.0,Other,67.0,
+Craigellachie 13,80.0,Speyside,30.0, 13
+Dalmore Cigar Malt,86.0,Highland,63.0,
+Dalwhinnie 15,82.0,Highland,49.0, 15
+Dewar's 12,78.0,Other,22.0, 12
+Elijah Craig Barrel Proof,90.0,Bourbon,49.0,
+Evan Williams Single Barrel 2003,83.0,Bourbon,25.0,
+George T Stagg 2014,94.0,Bourbon,95.0,
+Eagle Rare 17,89.0,Bourbon,58.0, 17
+Glen Garioch 12,84.0,Highland,29.0, 12
+Elijah Craig 18,87.0,Bourbon,92.0, 18
+Evan Williams 1783,79.0,Bourbon,14.0,
+Famous Grouse,75.0,Other,20.0,
+Four Roses,88.0,Bourbon,60.0,
+Glen Garioch Founder's Reserve,85.0,Highland,27.0,
+GlenDronach 12 Original,83.0,Speyside,37.0, 12 
+GlenDronach 15 Revival,87.0,Speyside,55.0, 15 
+Glenfarclas 105 Cask Strength,88.0,Speyside,68.0,
+Glenfarclas 15,85.0,Speyside,59.0, 15
+Forty Creek Confederation Oak,82.0,Other,23.0,
+Glenfiddich Snow Phoenix,86.0,Speyside,116.0,
+Glengoyne 17,81.0,Highland,55.0, 17
+Glenkinchie 12,79.0,Other,42.0, 12
+Glenmorangie 18,87.0,Highland,91.0, 18
+Glenmorangie Quinta Ruban,85.0,Highland,43.0,
+Hakushu 12,84.0,Japan,64.0, 12
+Hakushu 14,90.0,Japan,180.0, 14
+Hibiki 17,86.0,Japan,38.0, 17
+High West A Midwinter Nights Dram,93.0,Rye,63.0,
+High West Double Rye,87.0,Rye,33.0,
+Highland Park 15 Loki,88.0,Island,257.0, 15 
+Highland Park 18,88.0,Island,89.0, 18
+High West Campfire,88.0,American,40.0,
+Benrinnes 14 AD Rattray Sherry Cask,93.0,Speyside,96.0, 14 
+Glenfiddich 12,77.0,Speyside,33.0, 12
+Caol Ila Distiller's Edition,86.0,Islay,50.0,
+Jefferson's Very Small Batch,72.0,Bourbon,23.0,
+Isle of Skye 8,73.0,Other,21.0,
+Jim Beam Bonded,83.0,Bourbon,23.0,
+John J. Bowman,90.0,Bourbon,43.0,
+Johnnie Walker Green Label,83.0,Other,51.0,
+Jura Prophecy,81.0,Island,71.0,
+Kilchoman Loch Gorm,87.0,Islay,77.0,
+Kilchoman Machir Bay,86.0,Islay,51.0,
+Lagavulin 16,88.0,Islay,70.0, 16
+Laphroaig 15,89.0,Islay,77.0, 15
+Laphroaig Cairdeas 2012 Origin,89.0,Islay,78.0,
+Balvenie 14 Golden Cask,87.0,Speyside,75.0, 14 
+Benromach 10,84.0,Speyside,39.0, 10
+Jameson,74.0,Irish,22.0,
+Laphroaig PX Cask,88.0,Islay,66.0,
+Longrow Red 11 Fresh Port Cask,90.0,Campbeltown,74.0, 11 
+Macallan 10 Fine Oak,81.0,Speyside,40.0, 10 
+Macallan Sherry Cask Strength,91.0,Speyside,65.0,
+Maker's Mark,80.0,Bourbon,21.0,
+Maker's Mark Cask Strength,87.0,Bourbon,38.0,
+Benrinnes 15 DARKNESS! Oloroso,90.0,Speyside,87.0, 15 
+Nikka Coffey Grain,80.0,Japan,60.0,
+Oban 18,89.0,Highland,85.0, 18
+Old Forester Signature,83.0,Bourbon,23.0,
+Old Pulteney 1990,89.0,Highland,128.0,
+Macallan Select Oak,80.0,Speyside,48.0,
+Balvenie 17 Madeira Cask,88.0,Speyside,97.0, 17 
+Black Maple Hill,80.0,Bourbon,41.0,
+Larceny Small Batch Bourbon,80.0,Bourbon,25.0,
+Rock Hill Farms Single Barrel Bourbon,85.0,Bourbon,61.0,
+Rowan's Creek,82.0,Bourbon,37.0,
+Sazerac 18,91.0,Rye,61.0, 18
+Speyburn 10,79.0,Speyside,24.0, 10
+Springbank 10,84.0,Campbeltown,52.0, 10
+Springbank 12 Calvados Wood,89.0,Campbeltown,137.0, 12 
+Springbank 18,87.0,Campbeltown,150.0, 18
+Stagg Jr,87.0,Bourbon,46.0,
+Rittenhouse Rye 100,85.0,Rye,21.0,
+Talisker Distiller's Edition 2012,89.0,Island,77.0,
+Talisker Port Ruighe,85.0,Island,44.0,
+Thomas H. Handy 2013,90.0,Rye,73.0,
+Tobermory 15,88.0,Island,116.0, 15
+Blanton's Original Single Barrel,86.0,Bourbon,38.0,
+Redbreast 12,84.0,Irish,34.0, 12
+Bowmore Legend,64.0,Islay,24.0,
+Dalmore 1263 King Alexander III,90.0,Highland,191.0,
+Jameson 12,81.0,Irish,51.0, 12
+Johnnie Walker Platinum Label,77.0,Other,79.0,
+Laphroaig 10,85.0,Islay,41.0, 10
+Wild Turkey 101,85.0,Bourbon,19.0,
+Laphroaig Cairdeas 2015,88.0,Islay,28.0,
+Yoichi 26 SMWS 116.20,88.0,Japan,128.0, 26 
+Tomatin 18,84.0,Highland,36.0, 18
+Auchentoshan Valinch,83.0,Other,45.0,
+Whistle Pig 10 Straight Rye,88.0,Rye,66.0, 10 
+Woodford Reserve Double Oaked,80.0,Bourbon,37.0,
+Woodford Reserve,78.0,Bourbon,31.0,
+Compass Box Oak Cross,79.0,Other,46.0,
+Black Bottle,80.0,Other,19.0,
+Booker's 25th Anniversary,89.0,Bourbon,86.0,
+Bowmore 15 Laimrig,85.0,Islay,66.0, 15 
+Bruichladdich Octomore 5.1,90.0,Islay,184.0,
+Mackinlay's Shackleton Rare Old Highland Malt Whisky,84.0,Other,113.0,
+Orphan Barrel Barterhouse 20,84.0,Bourbon,77.0, 20
+Redbreast 12 Cask Strength,89.0,Irish,93.0, 12 
+Springbank 10 100 Proof,92.0,Campbeltown,68.0, 10 
+Teeling Small Batch,85.0,Irish,18.0,
+Tomatin 15,79.0,Highland,53.0, 15
+Tyrconnell Irish Single Malt,72.0,Irish,19.0,
+Talisker 10,86.0,Island,51.0, 10
+Bruichladdich Port Charlotte 10,87.0,Islay,60.0, 10
+Bruichladdich The Organic,78.0,Islay,52.0,
+Macallan Gold,70.0,Speyside,41.0,
+Caol Ila Cask Strength,88.0,Islay,41.0,
+Colonel E.H. Taylor Barrel Proof,90.0,Bourbon,66.0,
+Compass Box Great King St. Artist's Blend,80.0,Other,31.0,
+Dalmore 12,77.0,Highland,41.0, 12
+Deanston 12,78.0,Highland,50.0, 12
+Glenfarclas 10,80.0,Speyside,26.0, 10
+Glenfarclas 25,89.0,Speyside,126.0, 25
+Glenfiddich 14 Rich Oak,85.0,Speyside,38.0, 14 
+Glengoyne 21,85.0,Highland,115.0, 21
+Glenmorangie Artein,88.0,Highland,69.0,
+Glenmorangie Signet,87.0,Highland,71.0,
+High West American Prairie Reserve,84.0,Bourbon,32.0,
+Aberlour A'bunadh batch #41,90.0,Speyside,63.0,
+High West Rendezvous Rye,89.0,Rye,42.0,
+Glengoyne 10,71.0,Highland,27.0, 10
+Jim Beam Black 8 Double Aged,76.0,Bourbon,19.0, 8 
+Johnnie Walker Blue Label,78.0,Other,157.0,
+Kilchoman 100% Islay 3rd Edition,88.0,Islay,82.0,
+Alberta Premium Dark Horse,86.0,Other,16.0,
+Knob Creek 9 Small Batch,83.0,Bourbon,28.0, 9 
+Laphroaig 18,89.0,Islay,77.0, 18
+Laphroaig Triplewood,86.0,Islay,64.0,
+Ledaig 7,82.0,Island,65.0,
+Longrow CV,85.0,Campbeltown,52.0,
+Macallan 12 Fine Oak,76.0,Speyside,64.0, 12 
+Macallan 15 Fine Oak,87.0,Speyside,73.0, 15 
+Monkey Shoulder,76.0,Other,33.0,
+Mortlach 16 Flora & Fauna,86.0,Speyside,93.0, 16 
+Noah's Mill,86.0,Bourbon,46.0,
+Old Ezra 101,86.0,Bourbon,16.0,
+Jack Daniel's Single Barrel,76.0,American,36.0,
+Redbreast 15,86.0,Irish,79.0, 15
+Russell's Reserve Single Barrel,86.0,Bourbon,52.0,
+Seagram's Seven Crown,58.0,American,16.0,
+Springbank 12 Cask Strength,88.0,Campbeltown,75.0, 12 
+Springbank CV,83.0,Campbeltown,39.0,
+Angel's Envy Rye,89.0,Rye,74.0,
+Talisker Distiller's Edition 2000,87.0,Island,77.0,
+Tobermory 10,82.0,Island,29.0, 10
+Tomintoul Peaty Tang,76.0,Speyside,45.0,
+Very Old Barton Bottled In Bond,84.0,Bourbon,16.0,
+Ardbeg Auriverdes,83.0,Islay,100.0,
+Old Rip Van Winkle 10 Year,90.0,Bourbon,51.0, 10 
+Ardbeg Galileo,88.0,Islay,102.0,
+Arran Port Cask Finish,75.0,Island,45.0,
+Tamdhu 8 Signatory 2005,90.0,Speyside,59.0, 8 
+Balvenie 10 Founder's Reserve,83.0,Speyside,58.0, 10 
+Balvenie 12 Doublewood,81.0,Speyside,46.0, 12 
+Balvenie 21 Portwood,88.0,Speyside,148.0, 21 
+BenRiach 17 Solstice,90.0,Speyside,100.0, 17 
+BenRiach 21 Authenticus Peated,88.0,Speyside,137.0, 21 
+Bruichladdich Bere Barley 2006,79.0,Islay,67.0,
+Bruichladdich Black Art 3,93.0,Islay,229.0,
+Bruichladdich Octomore 4.2_167 Comus,92.0,Islay,136.0,
+Bruichladdich Port Charlotte The Peat Project,82.0,Islay,42.0,
+Bulleit Rye,84.0,Rye,25.0,
+Bunnahabhain 18,90.0,Islay,84.0, 18
+Caol Ila 12,84.0,Islay,54.0, 12
+Cardhu 12,76.0,Speyside,32.0, 12
+Colonel E.H. Taylor Small Batch,87.0,Bourbon,35.0,
+Colonel E.H. Taylor Straight Rye,89.0,Rye,70.0,
+Dalmore 15,81.0,Highland,52.0, 15
+Elijah Craig 12,84.0,Bourbon,23.0, 12
+Aberlour 12 Double Cask Matured,83.0,Speyside,35.0, 12 
+George T Stagg,94.0,Bourbon,102.0,
+George T Stagg 2013,89.0,Bourbon,80.0,
+Aberlour 16,86.0,Speyside,54.0, 16
+GlenDronach 21 Parliament,87.0,Speyside,80.0, 21 
+Glenfiddich 15 Distillery Edition,81.0,Speyside,60.0, 15 
+Aberlour A'bunadh,90.0,Speyside,60.0,
+Glengoyne 12,83.0,Highland,128.0, 12
+Glenmorangie 10 Original,81.0,Highland,35.0, 10 
+Glenmorangie Astar,88.0,Highland,81.0,
+Henry McKenna 10 Single Barrel,83.0,Bourbon,29.0, 10 
+Aberlour A'bunadh batch #42,87.0,Speyside,55.0,
+Highland Park Dark Origins,82.0,Island,87.0,
+Jim Beam Single Barrel,85.0,Bourbon,29.0,
+Jura 16,80.0,Island,59.0, 16
+Knob Creek Single Barrel Reserve,84.0,Bourbon,34.0,
+Laphroaig An Cuan Mor,87.0,Islay,68.0,
+Laphroaig Cairdeas 2013 Portwood,92.0,Islay,73.0,
+Ledaig 10,80.0,Island,46.0, 10
+Longrow Peated,82.0,Campbeltown,42.0,
+Macallan 12 Sherry,82.0,Speyside,50.0, 12 
+Mackmyra First Edition,83.0,Other,14.0,
+Nikka From The Barrel,84.0,Japan,39.0,
+Old Grand Dad 114,87.0,Bourbon,21.0,
+Old Pulteney 17,86.0,Highland,108.0, 17
+Overeem Port Cask Cask Strength,85.0,Other,150.0,
+Pappy Van Winkle Family Reserve Bourbon 15,93.0,Bourbon,143.0, 15
+AnCnoc 16,87.0,Speyside,41.0, 16
+Parker's Heritage Collection Cognac Finished,92.0,Bourbon,90.0,
+Russell's Reserve 10,83.0,Bourbon,28.0, 10
+Singleton of Glendullan 12,77.0,Speyside,26.0, 12
+Talisker 18,88.0,Island,88.0, 18
+Talisker Distiller's Edition 2013,89.0,Island,36.0,
+Templeton Rye,65.0,Rye,39.0,
+Tomintoul 10,74.0,Speyside,17.0, 10
+Yamazaki 12,81.0,Japan,56.0, 12
+Arran 12 Cask Strength,86.0,Island,59.0, 12 
+Arran 14,84.0,Island,52.0, 14
+Balcones Brimstone,79.0,American,65.0,
+Balvenie 12 Single Barrel First Fill,85.0,Speyside,67.0, 12 
+Balvenie 17 Peated Cask,89.0,Speyside,85.0, 17 
+BenRiach 12 Importanticus Fumosus,86.0,Speyside,128.0, 12 
+White Oak Akashi 14,93.0,Japan,167.0, 14
+Bruichladdich Port Charlotte Tro Na Linntean,91.0,Islay,128.0,
+Glenfarclas 17,87.0,Speyside,83.0, 17
+Glenlivet 18,83.0,Speyside,72.0, 18
+Aberlour A'bunadh batch #40,89.0,Speyside,64.0,
+Wild Turkey Rare Breed,88.0,Bourbon,31.0,
+W.L. Weller Special Reserve,80.0,Bourbon,16.0,
+William Larue Weller,95.0,Bourbon,80.0,
+Amrut Cask Strength,90.0,Other,70.0,
+Booker's Bourbon,89.0,Bourbon,47.0,
+Bruichladdich Rocks,83.0,Islay,45.0,
+Evan Williams Single Barrel 2004,86.0,Bourbon,24.0,
+Macallan Rare Cask,71.0,Speyside,265.0,
+Smooth Ambler Old Scout Rye 7 Year,87.0,Rye,36.0, 7 
+Wild Turkey Forgiven,80.0,American,49.0,
+Aberlour 18,87.0,Speyside,86.0, 18
+Aberlour A'bunadh batch #47,90.0,Speyside,67.0,
+Ardbeg Blasda,80.0,Islay,85.0,
+Ardbeg Uigeadail,92.0,Islay,63.0,
+Arran Sherry Single Cask,88.0,Island,82.0,
+Ardbeg Corryvreckan,90.0,Islay,66.0,
+Benrinnes 14 Lady of the Glen 1999,94.0,Speyside,69.0, 14 
+Balvenie Tun 1401 Batch #3,91.0,Speyside,246.0,
+Balvenie Tun 1401 Batch #5,95.0,Speyside,250.0,
+Sheep Dip,81.0,Other,38.0,
+Amrut Portonova,91.0,Other,58.0,
+Aberlour 12 Sherry Cask Matured,81.0,Speyside,23.0, 12 
+Longmorn 19 Signatory 1992,84.0,Speyside,80.0, 19 
+High West Bourye,88.0,American,41.0,
+Bruichladdich The Laddie Ten,86.0,Islay,50.0,
+Bruichladdich Islay Barley 2006,83.0,Islay,61.0,
+BenRiach 12 Sherry Matured,84.0,Speyside,35.0, 12 
+Benrinnes 15 DARKNESS! Pedro Ximenez,91.0,Speyside,90.0, 15 
+Bruichladdich The Laddie Sixteen,88.0,Islay,96.0,
+Buffalo Trace,84.0,Bourbon,22.0,
+Bushmills 16,85.0,Irish,63.0, 16
+Clynelish 14,82.0,Highland,51.0, 14
+Compass Box Peat Monster,80.0,Other,51.0,
+Deanston Virgin Oak,74.0,Highland,18.0,
+Forty Creek Copper Pot Reserve,83.0,Other,13.0,
+Gentleman Jack,62.0,American,16.0,
+Eagle Rare 17 2013,91.0,Bourbon,95.0, 17 
+Evan Williams Black Label,80.0,Bourbon,12.0,
+Glendronach 12,83.0,Speyside,22.0, 12
+GlenDronach Cask Strength,91.0,Speyside,64.0,
+Glenfiddich 18,84.0,Speyside,58.0, 18
+Glenlossie 19 Signatory 1992,84.0,Speyside,80.0, 19 
+Glenrothes Select Reserve,69.0,Speyside,39.0,
+Hibiki 12,76.0,Japan,65.0, 12
+Highland Park 10,83.0,Island,20.0, 10
+Glenlivet 16 Nadurra,86.0,Speyside,59.0, 16 
+Compass Box Asyla,76.0,Other,43.0,
+Johnnie Walker Black Label,77.0,Other,30.0,
+Kavalan Concertmaster,81.0,Other,30.0,
+Laphroaig 10 Cask Strength,91.0,Islay,56.0, 10 
+Laphroaig Cairdeas 2014 Amontillado,87.0,Islay,77.0,
+Old Pulteney 21,89.0,Highland,74.0, 21
+Macallan 18 Sherry,90.0,Speyside,158.0, 18 
+McClelland Highland,61.0,Highland,17.0,
+Old Forester Birthday Bourbon 2013,91.0,Bourbon,50.0,
+Orphan Barrel Old Blowhard 26,83.0,Bourbon,172.0, 26
+Parker's Heritage Collection Wheat Whiskey,89.0,Other,87.0,
+Scapa 16,81.0,Island,68.0, 16
+Springbank 15,86.0,Campbeltown,72.0, 15
+Talisker 57° North,87.0,Island,65.0,
+Talisker Storm,83.0,Island,45.0,
+Van Winkle Family Reserve Rye 13 Years Old,88.0,Rye,77.0, 13 
+Van Winkle Special Reserve 12 Year Lot B,88.0,Bourbon,56.0, 12 
+W.L. Weller 12,88.0,Bourbon,26.0, 12
+Willett Family Estate 2 Year Small Batch Rye,84.0,Rye,39.0, 2 
+Wild Turkey 101 Rye,84.0,Rye,32.0,
+Wiser's Legacy,86.0,Other,29.0,
+Benrinnes 23,93.0,Speyside,205.0, 23
+Bowmore Devil's Cask,84.0,Islay,33.0,
+Old Grand Dad 100 Bottled in Bond,84.0,Bourbon,19.0,
+Talisker 25,91.0,Island,106.0, 25
+Smooth Ambler Old Scout Bourbon 7 Year,83.0,Bourbon,35.0, 7 
+Bunnahabhain Toiteach,84.0,Islay,87.0,
+Bunnahabhain 12,86.0,Islay,48.0, 12
+Caol Ila Stitchell Reserve,88.0,Islay,106.0,
+GlenDronach 18 Allardice,86.0,Speyside,94.0, 18 
+Glenfiddich 15,83.0,Speyside,44.0, 15
+Green Spot,80.0,Irish,40.0,
+Highland Park 15,85.0,Island,67.0, 15
+Aberlour A'bunadh batch #45,91.0,Speyside,61.0,
+Jura 10,72.0,Island,35.0, 10
+Lagavulin 1997 Distillers Edition,90.0,Islay,114.0,
+Lot No. 40,87.0,Other,19.0, 40
+Macallan Sienna,82.0,Speyside,30.0,
+Parker's Heritage Collection Promise of Hope,89.0,Bourbon,95.0,
+Speyburn Bradan Orach,58.0,Speyside,16.0,
+Talisker Distiller's Edition,88.0,Island,76.0,
+Willett 4 Year Rye,89.0,Rye,38.0, 4 
+Arran 10,84.0,Island,35.0, 10
+Bruichladdich Octomore 2.2 Orpheus,93.0,Islay,223.0,
+Bushmills Original,69.0,Irish,19.0,
+Baker's 107,81.0,Bourbon,36.0,
+Basil Hayden,81.0,Bourbon,24.0,
+Eagle Rare 10,84.0,Bourbon,25.0, 10
+Evan Williams Bottled in Bond,83.0,Bourbon,14.0,
+Glen Elgin 12,83.0,Speyside,28.0, 12
+Glenfiddich 21 Gran Reserva,83.0,Speyside,151.0, 21 
+Hazelburn 8,82.0,Campbeltown,54.0,
+J&B Rare,45.0,Other,15.0,
+Jack Daniel's Old No. 7,71.0,American,18.0,
+Jim Beam Devil's Cut,76.0,Bourbon,18.0,
+Kilchoman 5 Single Bourbon Cask,90.0,Islay,90.0, 5 
+Laphroaig Quarter Cask,89.0,Islay,46.0,
+Macallan Amber,74.0,Speyside,50.0,
+Old Pulteney 12,82.0,Highland,33.0, 12
+Parker's Heritage Collection Blend of Mashbills,91.0,Bourbon,68.0,
+Royal Lochnagar 12,78.0,Highland,43.0, 12
+Talisker 30,88.0,Island,187.0, 30
+Tomintoul 14,81.0,Speyside,128.0, 14
+Auchentoshan 12,79.0,Other,33.0, 12
+BenRiach 12,82.0,Speyside,57.0, 12
+Balvenie 15 Single Barrel,88.0,Speyside,80.0, 15 
+Glenlivet 21 Archive,89.0,Speyside,123.0, 21 
+Bernheim Original Small Batch Wheat Whiskey,83.0,Other,31.0,
+Glenlivet 15 French Oak Reserve,80.0,Speyside,37.0, 15 
+Tomatin Decades,86.0,Highland,95.0,
+Aberlour 12 Non Chill Filtered,89.0,Speyside,54.0, 12 

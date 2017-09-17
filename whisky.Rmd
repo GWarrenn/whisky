@@ -2,7 +2,9 @@
 title: "Whisk(e)y"
 author: "August Warren"
 date: "Thursday, September 14, 2017"
-output: html_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 
@@ -14,19 +16,18 @@ library("ggthemes")
 ```
 ``
 ```{r echo=FALSE, out.width='100%'}
-knitr::include_graphics('C:\\Users\\awarren\\Documents\\GitHub\\whisky\\single-malts-at-merlins.jpg')
+knitr::include_graphics('single-malts-at-merlins.jpg')
 ```
 
-I went to a bar in Minneapolis called "Merlin's Rest" with one of the most impressive scotch collections I've ever seen compiled in a whisky bible (see:<http://merlinsrest.com/whiskywhiskey/the-whisky-bible/>). Certain whiskies aged about 30 years ran over $200 for a single pour. This got me thinking a lot about the relationship of the age and price of whisky. 
+Earlier this month, I went to a bar in Minneapolis called "Merlin's Rest" with one of the most impressive scotch collections I've ever seen compiled in a whisky bible (see: <http://merlinsrest.com/whiskywhiskey/the-whisky-bible/>). Certain whiskies aged about 30 years ran over $200 for a single pour. This got me thinking a lot about the relationship of the age and price of whisky. 
 
 So I did what any reasonable person did and found an API (<https://github.com/WhiskeyProject/whiskey-api>) to scrape the data and look at the relationship.
-
 
 Once I gathered the data (for those interested: <https://github.com/GWarrenn/whisky/blob/master/whisky.py>), the first thing I wanted to do was to run a simple linear regression on price and age to show the relationship between the two.
 
 ```{r echo}
 
-whisky_data_w_years <- read.csv("P:\\whisky.csv")
+whisky_data_w_years <- read.csv("whisky.csv")
 
 y <- whisky_data_w_years$price
 x <- whisky_data_w_years$year
@@ -92,7 +93,7 @@ The next step was to use the rating data that users have contributed along with 
 
 ```{r, echo=FALSE}
 
-whisky_data <- read.csv("P:\\whisky_all.csv")
+whisky_data <- read.csv("whisky_all.csv")
 
 whisky_data$mean_rating <- mean(whisky_data$rating)
 whisky_data$mean_price <- mean(whisky_data$price)
@@ -119,7 +120,7 @@ Last but not least, I wanted to find good "value" whiskies, whisky's that are on
 
 ```{r,,echo=FALSE}
 
-whisky_data <- read.csv("P:\\whisky_all.csv")
+whisky_data <- read.csv("whisky_all.csv")
 
 whisky_data$best_value <- whisky_data$rating/whisky_data$price
 

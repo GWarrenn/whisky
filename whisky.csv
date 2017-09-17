@@ -1,0 +1,169 @@
+name,rating,region,price,year
+AnCnoc 12,84.0,Speyside,38.0,12
+Aberfeldy 12,77.0,Highland,40.0,12
+Aberlour 10,78.0,Speyside,23.0,10
+Benromach 10 100 Proof,90.0,Speyside,69.0,10
+Bowmore 12,75.0,Islay,32.0,12
+Bowmore 15 Darkest,78.0,Islay,35.0,15
+Bowmore 18,82.0,Islay,46.0,18
+Balvenie 12 Signature,83.0,Speyside,50.0,12
+BenRiach 16,84.0,Speyside,72.0,16
+Balvenie 15 Single Barrel Sherry Cask,88.0,Speyside,40.0,15
+Balvenie 17 Doublewood,86.0,Speyside,92.0,17
+Buchanan's 12 De Luxe,77.0,Other,30.0,12
+Bushmills 10,81.0,Irish,30.0,10
+Caol Ila 18,87.0,Islay,74.0,18
+Caperdonich 18 Signatory,86.0,Speyside,91.0,18
+Chivas Regal 12,69.0,Other,23.0,12
+Craigellachie 13,80.0,Speyside,30.0,13
+Dalwhinnie 15,82.0,Highland,49.0,15
+Dewar's 12,78.0,Other,22.0,12
+Eagle Rare 17,89.0,Bourbon,58.0,17
+Glen Garioch 12,84.0,Highland,29.0,12
+Elijah Craig 18,87.0,Bourbon,92.0,18
+GlenDronach 12 Original,83.0,Speyside,37.0,12
+GlenDronach 15 Revival,87.0,Speyside,55.0,15
+Glenfarclas 15,85.0,Speyside,59.0,15
+Glengoyne 17,81.0,Highland,55.0,17
+Glenkinchie 12,79.0,Other,42.0,12
+Glenmorangie 18,87.0,Highland,91.0,18
+Hakushu 12,84.0,Japan,64.0,12
+Hakushu 14,90.0,Japan,180.0,14
+Hibiki 17,86.0,Japan,38.0,17
+Highland Park 15 Loki,88.0,Island,257.0,15
+Highland Park 18,88.0,Island,89.0,18
+Benrinnes 14 AD Rattray Sherry Cask,93.0,Speyside,96.0,14
+Glenfiddich 12,77.0,Speyside,33.0,12
+Lagavulin 16,88.0,Islay,70.0,16
+Laphroaig 15,89.0,Islay,77.0,15
+Balvenie 14 Golden Cask,87.0,Speyside,75.0,14
+Benromach 10,84.0,Speyside,39.0,10
+Longrow Red 11 Fresh Port Cask,90.0,Campbeltown,74.0,11
+Macallan 10 Fine Oak,81.0,Speyside,40.0,10
+Benrinnes 15 DARKNESS! Oloroso,90.0,Speyside,87.0,15
+Oban 18,89.0,Highland,85.0,18
+Balvenie 17 Madeira Cask,88.0,Speyside,97.0,17
+Sazerac 18,91.0,Rye,61.0,18
+Speyburn 10,79.0,Speyside,24.0,10
+Springbank 10,84.0,Campbeltown,52.0,10
+Springbank 12 Calvados Wood,89.0,Campbeltown,137.0,12
+Springbank 18,87.0,Campbeltown,150.0,18
+Tobermory 15,88.0,Island,116.0,15
+Redbreast 12,84.0,Irish,34.0,12
+Jameson 12,81.0,Irish,51.0,12
+Laphroaig 10,85.0,Islay,41.0,10
+Yoichi 26 SMWS 116.20,88.0,Japan,128.0,26
+Tomatin 18,84.0,Highland,36.0,18
+Whistle Pig 10 Straight Rye,88.0,Rye,66.0,10
+Bowmore 15 Laimrig,85.0,Islay,66.0,15
+Orphan Barrel Barterhouse 20,84.0,Bourbon,77.0,20
+Redbreast 12 Cask Strength,89.0,Irish,93.0,12
+Springbank 10 100 Proof,92.0,Campbeltown,68.0,10
+Tomatin 15,79.0,Highland,53.0,15
+Talisker 10,86.0,Island,51.0,10
+Bruichladdich Port Charlotte 10,87.0,Islay,60.0,10
+Dalmore 12,77.0,Highland,41.0,12
+Deanston 12,78.0,Highland,50.0,12
+Glenfarclas 10,80.0,Speyside,26.0,10
+Glenfarclas 25,89.0,Speyside,126.0,25
+Glenfiddich 14 Rich Oak,85.0,Speyside,38.0,14
+Glengoyne 21,85.0,Highland,115.0,21
+Glengoyne 10,71.0,Highland,27.0,10
+Jim Beam Black 8 Double Aged,76.0,Bourbon,19.0,8
+Knob Creek 9 Small Batch,83.0,Bourbon,28.0,9
+Laphroaig 18,89.0,Islay,77.0,18
+Macallan 12 Fine Oak,76.0,Speyside,64.0,12
+Macallan 15 Fine Oak,87.0,Speyside,73.0,15
+Mortlach 16 Flora & Fauna,86.0,Speyside,93.0,16
+Redbreast 15,86.0,Irish,79.0,15
+Springbank 12 Cask Strength,88.0,Campbeltown,75.0,12
+Tobermory 10,82.0,Island,29.0,10
+Old Rip Van Winkle 10 Year,90.0,Bourbon,51.0,10
+Tamdhu 8 Signatory 2005,90.0,Speyside,59.0,8
+Balvenie 10 Founder's Reserve,83.0,Speyside,58.0,10
+Balvenie 12 Doublewood,81.0,Speyside,46.0,12
+Balvenie 21 Portwood,88.0,Speyside,148.0,21
+BenRiach 17 Solstice,90.0,Speyside,100.0,17
+BenRiach 21 Authenticus Peated,88.0,Speyside,137.0,21
+Bunnahabhain 18,90.0,Islay,84.0,18
+Caol Ila 12,84.0,Islay,54.0,12
+Cardhu 12,76.0,Speyside,32.0,12
+Dalmore 15,81.0,Highland,52.0,15
+Elijah Craig 12,84.0,Bourbon,23.0,12
+Aberlour 12 Double Cask Matured,83.0,Speyside,35.0,12
+Aberlour 16,86.0,Speyside,54.0,16
+GlenDronach 21 Parliament,87.0,Speyside,80.0,21
+Glenfiddich 15 Distillery Edition,81.0,Speyside,60.0,15
+Glengoyne 12,83.0,Highland,128.0,12
+Glenmorangie 10 Original,81.0,Highland,35.0,10
+Henry McKenna 10 Single Barrel,83.0,Bourbon,29.0,10
+Jura 16,80.0,Island,59.0,16
+Ledaig 10,80.0,Island,46.0,10
+Macallan 12 Sherry,82.0,Speyside,50.0,12
+Old Pulteney 17,86.0,Highland,108.0,17
+Pappy Van Winkle Family Reserve Bourbon 15,93.0,Bourbon,143.0,15
+AnCnoc 16,87.0,Speyside,41.0,16
+Russell's Reserve 10,83.0,Bourbon,28.0,10
+Singleton of Glendullan 12,77.0,Speyside,26.0,12
+Talisker 18,88.0,Island,88.0,18
+Tomintoul 10,74.0,Speyside,17.0,10
+Yamazaki 12,81.0,Japan,56.0,12
+Arran 12 Cask Strength,86.0,Island,59.0,12
+Arran 14,84.0,Island,52.0,14
+Balvenie 12 Single Barrel First Fill,85.0,Speyside,67.0,12
+Balvenie 17 Peated Cask,89.0,Speyside,85.0,17
+BenRiach 12 Importanticus Fumosus,86.0,Speyside,128.0,12
+White Oak Akashi 14,93.0,Japan,167.0,14
+Glenfarclas 17,87.0,Speyside,83.0,17
+Glenlivet 18,83.0,Speyside,72.0,18
+Smooth Ambler Old Scout Rye 7 Year,87.0,Rye,36.0,7
+Aberlour 18,87.0,Speyside,86.0,18
+Benrinnes 14 Lady of the Glen 1999,94.0,Speyside,69.0,14
+Aberlour 12 Sherry Cask Matured,81.0,Speyside,23.0,12
+Longmorn 19 Signatory 1992,84.0,Speyside,80.0,19
+BenRiach 12 Sherry Matured,84.0,Speyside,35.0,12
+Benrinnes 15 DARKNESS! Pedro Ximenez,91.0,Speyside,90.0,15
+Bushmills 16,85.0,Irish,63.0,16
+Clynelish 14,82.0,Highland,51.0,14
+Eagle Rare 17 2013,91.0,Bourbon,95.0,17
+Glendronach 12,83.0,Speyside,22.0,12
+Glenfiddich 18,84.0,Speyside,58.0,18
+Glenlossie 19 Signatory 1992,84.0,Speyside,80.0,19
+Hibiki 12,76.0,Japan,65.0,12
+Highland Park 10,83.0,Island,20.0,10
+Glenlivet 16 Nadurra,86.0,Speyside,59.0,16
+Laphroaig 10 Cask Strength,91.0,Islay,56.0,10
+Old Pulteney 21,89.0,Highland,74.0,21
+Macallan 18 Sherry,90.0,Speyside,158.0,18
+Orphan Barrel Old Blowhard 26,83.0,Bourbon,172.0,26
+Scapa 16,81.0,Island,68.0,16
+Springbank 15,86.0,Campbeltown,72.0,15
+Van Winkle Family Reserve Rye 13 Years Old,88.0,Rye,77.0,13
+Van Winkle Special Reserve 12 Year Lot B,88.0,Bourbon,56.0,12
+W.L. Weller 12,88.0,Bourbon,26.0,12
+Willett Family Estate 2 Year Small Batch Rye,84.0,Rye,39.0,2
+Benrinnes 23,93.0,Speyside,205.0,23
+Talisker 25,91.0,Island,106.0,25
+Smooth Ambler Old Scout Bourbon 7 Year,83.0,Bourbon,35.0,7
+Bunnahabhain 12,86.0,Islay,48.0,12
+GlenDronach 18 Allardice,86.0,Speyside,94.0,18
+Glenfiddich 15,83.0,Speyside,44.0,15
+Highland Park 15,85.0,Island,67.0,15
+Jura 10,72.0,Island,35.0,10
+Lot No. 40,87.0,Other,19.0,40
+Willett 4 Year Rye,89.0,Rye,38.0,4
+Arran 10,84.0,Island,35.0,10
+Eagle Rare 10,84.0,Bourbon,25.0,10
+Glen Elgin 12,83.0,Speyside,28.0,12
+Glenfiddich 21 Gran Reserva,83.0,Speyside,151.0,21
+Kilchoman 5 Single Bourbon Cask,90.0,Islay,90.0,5
+Old Pulteney 12,82.0,Highland,33.0,12
+Royal Lochnagar 12,78.0,Highland,43.0,12
+Talisker 30,88.0,Island,187.0,30
+Tomintoul 14,81.0,Speyside,128.0,14
+Auchentoshan 12,79.0,Other,33.0,12
+BenRiach 12,82.0,Speyside,57.0,12
+Balvenie 15 Single Barrel,88.0,Speyside,80.0,15
+Glenlivet 21 Archive,89.0,Speyside,123.0,21
+Glenlivet 15 French Oak Reserve,80.0,Speyside,37.0,15
+Aberlour 12 Non Chill Filtered,89.0,Speyside,54.0,12

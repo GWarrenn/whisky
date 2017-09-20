@@ -60,6 +60,8 @@ all_whisky_data.to_csv("whisky_all.csv",index=False,encoding='utf-8')
 whisky_df['year'].replace('', np.nan, inplace=True)
 whisky_df.dropna(subset=['year'], inplace=True)
 
+whisky_df.ix[whisky_df.name =='Lot No. 40', 'year'] = ''
+
 whisky_df['year'] = pd.to_numeric(whisky_df['year'], errors='coerce')
 
 whisky_df.to_csv("whisky.csv",index=False)

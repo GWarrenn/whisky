@@ -8,7 +8,7 @@ output:
 ---
 
 
-```{r}
+```{r echo=FALSE, include=FALSE}
 library("ggplot2")
 library("directlabels")
 library("plyr")
@@ -25,7 +25,7 @@ So I did what any reasonable person did and found an API (<https://github.com/Wh
 
 Once I gathered the data (for those interested: <https://github.com/GWarrenn/whisky/blob/master/whisky.py>), the first thing I wanted to do was to run a simple linear regression on price and age to show the relationship between the two.
 
-```{r echo}
+```{r echo=FALSE}
 
 whisky_data_w_years <- read.csv("whisky.csv")
 

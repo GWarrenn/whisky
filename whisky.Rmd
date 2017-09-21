@@ -11,7 +11,7 @@ output:
 ```{r echo=FALSE, include=FALSE}
 library("ggplot2")
 library("directlabels")
-library("plyr")
+library("dplyr")
 library("ggthemes")
 ```
 ``
@@ -112,11 +112,11 @@ ggplot(whisky_data, aes(x=whisky_data$rating, y=whisky_data$price)) +
   labs(caption = "Source: Whisky Project API https://github.com/WhiskeyProject/whiskey-api", 
        x = "Rating", y = "Bottle Price",colour="Rating") + 
   ggtitle("Whisky Rating & Price") + theme_fivethirtyeight() + 
-  theme(plot.title = element_text(hjust = 0.5),axis.title = element_text()) + ylab('Bottle Price')
+  theme(plot.title = element_text(hjust = 0.5),axis.title = element_text(),axis.text = element_text(size=12)) + ylab('Bottle Price')
 
 ```
 
-Last but not least, I wanted to find good "value" whiskies, whisky's that are on the lower end of the price spectrum but have generally higher ratings. I measured this by dividing the rating by price to create a rough "best value" measure. 
+Last but not least, I wanted to find good "value" whiskies, whisky's that are on the lower end of the price spectrum but have generally higher ratings. These whisky's would be candidates for cocktails or if you just need a semi-decent bottle of whisky without breaking the bank (no judgement here).  I measured this by dividing the rating by price to create a rough "best value" measure. 
 
 ```{r,,echo=FALSE}
 
@@ -124,9 +124,10 @@ whisky_data <- read.csv("whisky_all.csv")
 
 whisky_data$best_value <- whisky_data$rating/whisky_data$price
 
-top_10 <- arrange(whisky_data,desc(best_value))
+top_10 <- arrange(whisky_data,region,desc(best_value))
 
-top_10 = top_10[1:10,]
+top_10 <- top_10 %>% group_by(region) %>% arrange(desc(best_value)) %>% slice(1:3)
+
 ```
 
 ```{r, fig.width=10,fig.height=10,echo=FALSE}
@@ -134,8 +135,8 @@ ggplot(top_10, aes(x = reorder(top_10$name, top_10$best_value), y = top_10$best_
   geom_bar(stat = "identity",show.legend=FALSE) + coord_flip() + 
   labs(caption = "Source: Whisky Project API https://github.com/WhiskeyProject/whiskey-api", 
        y = "Best Value: Rating/Price", x = "") +
-  geom_text(aes(label=paste("price = $",top_10$price,sep="")), vjust=-1,hjust=-0.1, position=position_dodge(.5), size=5,) + ggtitle("Best Value Whiskies: Rating/Price") +
-  geom_text(aes(label=paste("rating =",top_10$rating)), vjust=1,hjust=-0.1, position=position_dodge(.5), size=5) +  ylim(c(0,8))
+  geom_text(aes(label=paste("price = $",top_10$price," | rating =",top_10$rating,sep="")), vjust=0,hjust=-0.1, position=position_dodge(.5), size=3,) + ggtitle("Best Value Whiskies: Rating/Price") + 
+  theme(plot.title = element_text(hjust = 0.5),text = element_text(size=10)) +  ylim(c(0,8)) + facet_grid(region~., scales = "free", space = "free")
 
 ```
 

@@ -106,6 +106,6 @@ Tip: Beware of the top-left and seek out the bottom right.
 
 ![](whisky_files/figure-markdown_github/unnamed-chunk-11-1.png)
 
-Last but not least, I wanted to find good "value" whiskies, whisky's that are on the lower end of the price spectrum but have generally higher ratings. I measured this by dividing the rating by price to create a rough "best value" measure.
+Last but not least, I wanted to find good "value" whiskies, whisky's that are on the lower end of the price spectrum but have generally higher ratings. These whisky's would be candidates for cocktails or if you just need a semi-decent bottle of whisky without breaking the bank (no judgement here). I measured this by dividing the rating by price to create a rough "best value" measure.
 
 ![](whisky_files/figure-markdown_github/unnamed-chunk-13-1.png)
